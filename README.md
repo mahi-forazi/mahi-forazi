@@ -59,7 +59,6 @@ Since I'm still learning, feel free to share any tips or suggestions by creating
 <div align="center">
 <br>
   
-/*
 <a href="https://www.facebook.com/junayed.06/" target="_blank">
   <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
@@ -77,13 +76,13 @@ Since I'm still learning, feel free to share any tips or suggestions by creating
   <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 
-<a href="https://wa.me/8801968016079?text=Hello%20there!
+<a href="https://wa.me/8801326545077?text=Hello%20there!
 " target="_blank">
   <img src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 
   
-</div>*/
+</div>
 
 
   
